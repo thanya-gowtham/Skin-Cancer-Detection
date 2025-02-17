@@ -3,6 +3,7 @@ Welcome to Skin Cancer Detection System, an advanced system that leverages machi
 Introduction: Skin conditions are a frequent cause of clinic visits, where accurate diagnosis is essential for effective treatment. This project introduces a powerful machine learning system that analyzes images to detect and classify various skin lesions.
 
 Dataset: The project uses the HAM10000(Human Against Machine with 10000 trainingimages)dataset for skin cancer detection. This dataset containsdermatoscopic images of pigmented skin lesions across7different diagnostic categories.
+Kaggle dataset: https://www.kaggle.com/code/raniaioan/starter-skin-cancer-mnist-ham10000-6a5a3b01-0
 
 Model: The skin cancer detection project utilizes the Xception architecture as its base model. Xception, short for "Extreme Inception," is a deep
 convolutional neural network
